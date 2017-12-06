@@ -8,5 +8,6 @@ Broadcast columns: node_id, sender, asn, time, channel, is_eb (1 = EB, 0 = DIO)
 Unicast columns: node_id, destination, asn, time, ack, tx (tries), channel of the last attempt
 
 
-2. Density10.csv
+2. broadcast_recepetion(10,13,16,19) and unicast_transmissions(10,13,16,19)
+Datasets generated for the density experiment (Figure 10).
 
